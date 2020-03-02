@@ -1,0 +1,6 @@
+framework module Pods_AnimationsSpike {
+  umbrella header "Pods-AnimationsSpike-umbrella.h"
+
+  export *
+  module * { export * }
+}
